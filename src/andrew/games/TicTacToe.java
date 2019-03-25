@@ -1,5 +1,9 @@
 package andrew.games;
 
+/**
+ * My first game
+ * @author andrew
+ */
 public class TicTacToe {
 
 	public static void main(String[] args) {
